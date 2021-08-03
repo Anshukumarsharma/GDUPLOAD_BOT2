@@ -1,12 +1,12 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "1902140434:AAFBtIN6MvV0W4Gyq4LgqAECoumMC0ereJg"
+    APP_ID = "7868296"
+    API_HASH = "bfa7fecb33443243ff8c8b0f27f9cd68"
+    DATABASE_URL = "postgresql://postgres:B5zFVBQIZ2A1gxhXVyUY@containers-us-west-7.railway.app:6095/railway"
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "186831852214-3gcuga1kuhvod801ke29b2gbel1an1aq.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "hucuwFB517clxXXttGvuRQLr"
     SUPPORT_CHAT_LINK = ""
 
 
@@ -39,7 +39,7 @@ class Messages:
         
         # Dont remove this ↓ if you respect developer.
          
-        "**Join Channel @lkhitech**"
+        "**Join Channel @bookkkkkkkkkkkkkkk1**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
